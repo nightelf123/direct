@@ -8,7 +8,7 @@ TROJAN_WSPATH='/trojan'
 SS_WSPATH='/shadowsocks'
 NEZHA_SERVER="nz.b1ly.com"
 NEZHA_PORT=5555
-NEZHA_KEY=""
+NEZHA_KEY="II47MUosq0uz1WWyiS"
 
 generate_config() {
   cat > config.json << EOF
